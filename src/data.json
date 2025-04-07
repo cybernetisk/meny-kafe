@@ -8,13 +8,10 @@
                 "active": true,
                 "type": "regular"
             },
-           
             {
                 "priceIntern": 50,
                 "name": "Pumpkin Spice",
-                "glutenfree": true,
                 "price": 65,
-                "volume": 50.0,
                 "active": true,
                 "type": "regular"
             }
@@ -25,29 +22,23 @@
         "products": [
             {
                 "name": "Latte",
-                "volume": 12.0,
                 "price": 30,
                 "priceIntern": 25,
                 "active": true,
-                "glutenfree": true,
                 "type": "regular"
             },
             {
                 "priceIntern": 50,
                 "name": "Mocha",
-                "glutenfree": false,
                 "price": 65,
 
-                "volume": 50.0,
                 "active": true,
                 "type": "regular"
             },
             {
                 "priceIntern": 50,
                 "name": "Capuccino",
-                "glutenfree": true,
                 "price": 65,
-                "volume": 50.0,
                 "active": true,
                 "type": "regular"
             }
@@ -58,20 +49,16 @@
         "products": [
             {
                 "name": "Earl Grey",
-                "volume": 12.0,
                 "price": 30,
                 "priceIntern": 25,
                 "active": true,
-                "glutenfree": true,
                 "type": "regular"
             },
             {
                 "priceIntern": 50,
                 "name": "Green",
-                "glutenfree": false,
                 "price": 65,
 
-                "volume": 50.0,
                 "active": true,
                 "type": "regular"
             }
@@ -79,46 +66,38 @@
         "name": "Te"
     },
     {
-    "products":[
-          {
-             "name":"Helmelk",
-             "volume":12.0,
-             "price":30,
-             "priceIntern":25,
-             "active":true,
-             "glutenfree":true,
-             "type":"regular"
-          },
-          {
-             "priceIntern":50,
-             "name":"Laktosefri lettmelk",
-             "glutenfree":false,
-             "price":65,
-             
-             "volume":50.0,
-             "active":true,
-             "type":"regular"
-          },
-          {
-             "priceIntern":50,
-             "name":"Havremelk",
-             "glutenfree":true,
-             "price":65,
-             "volume":50.0,
-             "active":true,
-             "type":"regular"
-          },
-          {
-             "priceIntern":50,
-             "name":"Vaniljemelk",
-             "glutenfree":true,
-             "price":65,
-             "volume":50.0,
-             "active":true,
-             "type":"regular"
-          }
-       ],
-       "name":"Melk"
+        "products": [
+            {
+                "name": "Helmelk",
+                "price": 30,
+                "priceIntern": 25,
+                "active": true,
+                "type": "regular"
+            },
+            {
+                "priceIntern": 50,
+                "name": "Laktosefri lettmelk",
+                "price": 65,
+
+                "active": true,
+                "type": "regular"
+            },
+            {
+                "priceIntern": 50,
+                "name": "Havremelk",
+                "price": 65,
+                "active": true,
+                "type": "regular"
+            },
+            {
+                "priceIntern": 50,
+                "name": "Vaniljemelk",
+                "price": 65,
+                "active": true,
+                "type": "regular"
+            }
+        ],
+        "name": "Melk"
     },
     {
         "products": [
@@ -136,13 +115,11 @@
                 "active": true,
                 "type": "regular"
             },
-           
+
             {
                 "priceIntern": 5,
                 "name": "Karamell",
-                "glutenfree": true,
                 "price": 6,
-                "volume": 50.0,
                 "active": true,
                 "type": "regular"
             }
