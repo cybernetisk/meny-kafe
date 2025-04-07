@@ -13,7 +13,7 @@ class App extends React.Component {
       }
 
       render(){
-            document.title = "Meny";
+            document.title = "Kafémeny";
             return (
                   <div className="top">
                         {/* <EditList /> */}

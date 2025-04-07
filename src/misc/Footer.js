@@ -4,11 +4,7 @@ class MenuHeader extends React.Component{
       render(){
             return(<div className="footer">
                   <span className="info">
-                  <img
-                        className="gfImage hmargin"
-                        src={gf}
-                        alt="glutenfree symbol"
-                  /> betyr glutenfritt
+                        {/* Legg fotnoter her! */}
                   </span>
             </div>);
       }
