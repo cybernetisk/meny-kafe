@@ -55,10 +55,10 @@ h1{
       display: flex;
       flex-direction: row;
 }
-.gfImage{
-      height: 0.7em;
-      width: 0.7em;
+.timeplanImage{
+      width: 30em;
       display:inline-block;
+      box-shadow: 1px 1px 10px #000;
 }
 .noPadding{
       margin:0px;
@@ -97,7 +97,7 @@ li {
 
 .arrow_open{
       content:'';
-      transform:translate(0,-100%) rotate(-225deg) scale(0.5);
+      transform:translate(0,-100%) rotate(135deg) scale(0.5);
 }
 #logo {
       justify-content:right;
