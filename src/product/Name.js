@@ -1,5 +1,4 @@
 import React from 'react';
-import none from '../imgs/none.png'; // gives image path
 
 class Name extends React.Component{
       constructor(props){
